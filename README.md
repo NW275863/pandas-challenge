@@ -1,3 +1,12 @@
+The student file was so big that when I tried to open / edit my computer would stall and I had to close the tab. That is why there is multiple student data sets.
+
+
+
+
+
+
+
+
 # Pandas-PySchool
 A practice exercise of pandas to do analysis of data on students
 
