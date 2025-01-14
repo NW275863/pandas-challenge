@@ -1,9 +1,14 @@
 The student file was so big that when I tried to open / edit my computer would stall and I had to close the tab. That is why there is multiple student data sets.
 
+The solution is in "PyCitySchool" not "PyCitySchools"
+
+I am going to meet with a tutor, for some reason I am having trouble deleting files. That is why "nothing" exists as well.
+
+I had trouble with Jupyter too so I have to meet with someone about that.
 
 
 
-
+Help used from multiple online forums.
 
 
 
